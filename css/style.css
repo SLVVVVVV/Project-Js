@@ -165,6 +165,7 @@ h6,
     text-align: center;
     background: var(--light);
     transition: .5s;
+    height: 600px;
 }
 
 .rent-item:hover,
