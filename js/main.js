@@ -105,7 +105,7 @@
         loop: true,
         center: true,
         autoplay: true,
-        smartSpeed: 1000,
+        smartSpeed: 800,
         responsive: {
             0:{
                 items:2
